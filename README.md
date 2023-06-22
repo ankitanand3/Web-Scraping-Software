@@ -2,13 +2,19 @@
 
 
 
-Modules used:
+##Modules used:
 Flask
+
 Render_template
+
 Request
+
 BeautifulSoup
+
 Urllib3
+
 json
+
 re
 
 
