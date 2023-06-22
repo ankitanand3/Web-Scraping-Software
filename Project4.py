@@ -1,7 +1,3 @@
-# Ankit Anand
-# aanand35@uic.edu
-# I hereby attest that I have adhered to the rules for quizzes and projects as well as UIC’s Academic Integrity standards. Signed: Ankit Anand
-
 from flask import Flask, render_template, request # importing flask modules
 app = Flask(__name__)
 from bs4 import BeautifulSoup # importing beautifulsoup
